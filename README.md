@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live Site running [Here](https://oluwaferanmi.onrender.com).
+Live Site running [Here](https://profile-card-ui-oluwaferanmi.netlify.app).
 
 ## Available Scripts
 
