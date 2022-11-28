@@ -14,7 +14,7 @@ export default function Card() {
     <section>
         <div className={style.profileCard}>
             <figure className={style.profileCard__img}>
-                <img src='Snapchat-909554205.jpg' alt='..' />
+                <img src='profile-pic.png' alt='..' />
             </figure>
 
             <div className={style.profileCard__desc}>
